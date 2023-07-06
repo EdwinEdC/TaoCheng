@@ -1,3 +1,4 @@
+[![MasterHead]](https://github.com/EdwinEdC)
 <h1 align="center">Hi 👋, I'm Edwin (Tao) Cheng</h1>
 <h3 align="center">A passionate Data analyst, who obtained a master degree in computer science at the University of Queensland, Australia, and a bachelor degree in computer science at the University of Victoria, Canada.</h3>
 
